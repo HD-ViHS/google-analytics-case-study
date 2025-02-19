@@ -49,7 +49,10 @@ Analysis shows that while members tend to take much shorter rides when compared 
 
 ## Share
 ![Ride Count by Day of Week](https://github.com/user-attachments/assets/27a29f24-d3b4-41ca-9c9d-ec99cdabf9e2)
+![Ride Length by Day of Week](https://github.com/user-attachments/assets/8fdca3b5-4ba1-46e9-b2b5-da2bf102dd31)
+
 ## Act
+
 I reccommend the following actions as methods to convert casual bikers to member bikers:
 1. Place more Cyclistic stations in residential neighborhoods so to allow more people to become commuting bikers, who are far more likely to be members.
 2. Lower bike prices on weekdays to encourage weekday riding, which can encourage casual riders to become regular commuting riders, who are more likely to become members.
